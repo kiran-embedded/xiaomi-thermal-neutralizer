@@ -1,0 +1,4 @@
+#!/system/bin/sh
+# Neutralized mi_thermald by Xiaomi Thermal Neutralizer
+exit 0
+

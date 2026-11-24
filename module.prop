@@ -1,0 +1,7 @@
+id=xiaomi_thermal_neutralizer
+name=Xiaomi Thermal Neutralizer
+version=v1.0.0
+versionCode=100
+author=ProjectAether
+description=Neutralizes aggressive Xiaomi userspace thermal throttling (mi_thermald & thermal-engine), clears cooling device states, and restores sustained CPU/GPU frequency scaling.
+

@@ -1,0 +1,4 @@
+#!/system/bin/sh
+# Neutralized thermal-engine by Xiaomi Thermal Neutralizer
+exit 0
+
